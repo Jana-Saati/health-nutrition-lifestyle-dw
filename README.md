@@ -9,9 +9,9 @@ This project combines health, nutrition, sleep, and physical activity data from 
 ## Team
 | Name | ID |
 |---|---|
-| Lamar Abdel Aziz Alqurashi | 446003107 |
-| Jana Abdul Rauf Saati | 446017177 |
-| Fatima Shaker Alharthi | 446000667 |
+| Lamar Abdel Aziz Alqurashi
+| Jana Abdul Rauf Saati 
+| Fatima Shaker Alharthi 
 
 ## Data Sources
 | Dataset | Type | Description |
